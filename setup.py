@@ -10,7 +10,7 @@ requirements = requirements_text.split()
 
 setuptools.setup(
     name="imlo",
-    version="0.1.0",
+    version="0.1.1",
     description="Imlo package",
     url="https://github.com/imlouz/imlo",
     author="Imlo Developers",
